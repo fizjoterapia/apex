@@ -1,0 +1,52 @@
+baseURL = "https://fizjoterapia.uk"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Cupper"
+theme = "cupper-hugo-theme"
+googleAnalytics = "UA-123456789-1"
+disqusShortname = "yourdiscussshortname"
+enableGitInfo = true
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[imaging]
+  quality = 99
+
+[params]
+  description = "mgr Joanna Kmieć - Polska fizjoterapeutka w Belfaście."
+  homeMetaContent = "Polski fizjoterapeuta w Belfast"
+  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "Jan 2, 2006"
+  codePenUser = "someUser"
+  katex = true
+
+[menu]
+  [[menu.nav]]
+    name = "Belfast"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Blog"
+    url = "/post/"
+    weight = 2
+  [[menu.nav]]
+    name = "Oferta"
+    url = "/offer/"
+    weight = 3
+  [[menu.nav]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+  [[menu.nav]]
+    name = "O mnie"
+    url = "/about/"
+    weight = 5
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 6
