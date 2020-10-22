@@ -11,15 +11,6 @@ title: O mnie
 [![](https://fizjoterapia-rzeszow.com.pl/wp-content/uploads/2017/02/16196058_1761340967526362_4707656253919616208_n-1-300x300.jpg)
 ](https://fizjoterapia-rzeszow.com.pl/wp-content/uploads/2017/02/16196058_1761340967526362_4707656253919616208_n-1.jpg)
 
-
-
-
-
-
-
-
-
-
 Jestem magistrem fizjoterapii w trakcie Specjalizacji w dziedzinie Fizjoterapia na Uniwersytecie Medycznym im. Karola Marcinkowskiego w Poznaniu.
 
 Ukończyłam fizjoterapię na Uniwersytecie Rzeszowskim, studia podyplomowe na kierunku Zarządzanie Podmiotami Leczniczymi i Pedagogika w Ochronie Zdrowia oraz studia licencjackie na kierunku Zdrowie Publiczne ze specjalnością Kosmetologia ogólna.
@@ -35,6 +26,7 @@ Ukończyłam szkolenie akredytowane przez Polskie Towarzystwo Uroginekologiczne 
 
 ##### Kursy i szkolenia:
 
+- Kurs "Uroginekologia - praktyka: badanie per vaginam, badanie per rectum", Kraków, pazdziernik 2020r
 - Szkolenie **Uśmierzanie bólu porodowego metodą TENS - przezskórnej elektrycznej stymulacji nerwów**, Warszawa, listopad 2018r
 - Szkolenie z Terapii powięziowej FDM Neuro: **Terapia manualna wg Typaldosa D.O. Fascial Distorsion Model, ANGITA**, listopad 2018r
 - Interdyscyplinarny kurs - **Rehabilitacja okołoporodowa z akredytacją Polskiego Towarzystwa Uroginekologicznego**, Warszawa 2018
