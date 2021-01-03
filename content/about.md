@@ -26,7 +26,10 @@ Ukończyłam szkolenie akredytowane przez Polskie Towarzystwo Uroginekologiczne 
 
 ##### Kursy i szkolenia:
 
-- Kurs "Uroginekologia - praktyka: badanie per vaginam, badanie per rectum", Kraków, pazdziernik 2020r
+- Kurs **Uroginekologia - praktyka: badanie per vaginam, badanie per rectum**, Kraków, pazdziernik 2020r
+- Kurs **Fizjoterapia Uroginekologiczna**, Samantha Gillard, Warszawa, lipiec 2019
+- Warsztaty **Zaburzenia seksualne: dyspareunia, volvodynia, vestibulodynia, waginizm - kompleksowa fizjoterapia**, Kraków, marzec 2019
+- Warsztaty **Bolesne miesiączkowanie oraz endometrioza - postępowanie fizjoterapeutyczne**, Kraków, marzec 2019
 - Szkolenie **Uśmierzanie bólu porodowego metodą TENS - przezskórnej elektrycznej stymulacji nerwów**, Warszawa, listopad 2018r
 - Szkolenie z Terapii powięziowej FDM Neuro: **Terapia manualna wg Typaldosa D.O. Fascial Distorsion Model, ANGITA**, listopad 2018r
 - Interdyscyplinarny kurs - **Rehabilitacja okołoporodowa z akredytacją Polskiego Towarzystwa Uroginekologicznego**, Warszawa 2018
