@@ -12,8 +12,8 @@ url: /fizjoterapia-rehabilitacja-masaz-cennik/
 | Usługa | Cena |
 |--------|------|
 | Ćwiczenia indywidualne 55-60 min | £40 |
-| Konsultacje i pierwsza wizyta (wywiad, badanie, ocena, pacjenta, profilaktyka, edukacja) | £50 |
-| Konsultacja okołoporodowa (wywiad, badanie w tym badanie wewnętrzne z oceną mięśni dna miednicy, terapia rozejścia, profilaktyka i edukacja, indywidualnie dobrany trening) | £50 |
+| Konsultacje i pierwsza wizyta (wywiad, badanie, ocena, pacjenta, profilaktyka, edukacja) 80-90 min | £50 |
+| Konsultacja okołoporodowa (wywiad, badanie w tym badanie wewnętrzne z oceną mięśni dna miednicy, terapia rozejścia, profilaktyka i edukacja, indywidualnie dobrany trening) 80-90 min | £50 |
 | Masaż leczniczy wizyta 60 - 75min | £40 |
 
 ##### TAPING
