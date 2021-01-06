@@ -29,23 +29,14 @@ url: /fizjoterapia-rehabilitacja-masaz-cennik/
 <td >Ćwiczenia indywidualne 55-60 min
 </td>
 
-<td style="text-align: right;" >90zł
+<td style="text-align: right;" >40£
 </td>
 </tr>
-<tr >
-
-<td >Ćwiczenia indywidualne przy zakupie 10 i więcej wizyt
-</td>
-
-<td style="text-align: right;" >80zł
-</td>
-</tr>
-<tr >
 
 <td >Konsultacje i pierwsza wizyta (wywiad, badanie, ocena, pacjenta, profilaktyka, edukacja)
 </td>
 
-<td style="text-align: right;" >90zł
+<td style="text-align: right;" >40£
 </td>
 </tr>
 <tr >
@@ -54,7 +45,7 @@ url: /fizjoterapia-rehabilitacja-masaz-cennik/
 miednicy, terapia rozejścia, profilaktyka i edukacja, indywidualnie dobrany trening)
 </td>
 
-<td style="text-align: right;" >100zł
+<td style="text-align: right;" >40£
 </td>
 </tr>
 </tbody>
@@ -76,23 +67,13 @@ miednicy, terapia rozejścia, profilaktyka i edukacja, indywidualnie dobrany tre
 <td >
 </td>
 </tr>
-<tr >
 
-<td >Masaż leczniczy wizyta 50 - 60min
+<tr>
+<td >Masaż leczniczy wizyta 60 - 75min
 </td>
-
-<td style="text-align: right;" >80zł
-</td>
-</tr>
-<tr >
-
-<td >Masaż leczniczy przy zakupie 10 i więcej wizyt
-</td>
-
-<td style="text-align: right;" >75zł
+<td style="text-align: right;" >40£
 </td>
 </tr>
-<tr >
 
 <td >Masaż leczniczy częściowy wizyta 30-35min
 </td>
@@ -100,22 +81,7 @@ miednicy, terapia rozejścia, profilaktyka i edukacja, indywidualnie dobrany tre
 <td style="text-align: right;" >50zł
 </td>
 </tr>
-<tr >
 
-<td >Masaż leczniczy częściowy przy zakupie 10 i więcej wizyt
-</td>
-
-<td style="text-align: right;" >45zł
-</td>
-</tr>
-<tr >
-
-<td >Masaż relaksacyjny (kark, obręcz barkowa, ramiona, grzbiet, nogi, stopy) 60-70min
-</td>
-
-<td style="text-align: right;" >90zł
-</td>
-</tr>
 </tbody>
 </table>
 
@@ -148,7 +114,7 @@ miednicy, terapia rozejścia, profilaktyka i edukacja, indywidualnie dobrany tre
 <td style="text-align: right;" >                                                                                                        do 70 cm
 </td>
 
-<td style="text-align: right;" >45zł
+<td style="text-align: right;" >8£
 </td>
 </tr>
 <tr >
@@ -156,7 +122,7 @@ miednicy, terapia rozejścia, profilaktyka i edukacja, indywidualnie dobrany tre
 <td style="text-align: right;" >                                                       od 70 do 100 cm
 </td>
 
-<td style="text-align: right;" >50zł
+<td style="text-align: right;" >10£
 </td>
 </tr>
 <tr >
@@ -164,7 +130,7 @@ miednicy, terapia rozejścia, profilaktyka i edukacja, indywidualnie dobrany tre
 <td style="text-align: right;" >od100 do 130 cm
 </td>
 
-<td style="text-align: right;" >55zł
+<td style="text-align: right;" >12£
 </td>
 </tr>
 <tr >
@@ -172,7 +138,7 @@ miednicy, terapia rozejścia, profilaktyka i edukacja, indywidualnie dobrany tre
 <td style="text-align: right;" >od 130 do 160 cm
 </td>
 
-<td style="text-align: right;" >60 zł
+<td style="text-align: right;" >14£
 </td>
 </tr>
 <tr >
@@ -180,7 +146,7 @@ miednicy, terapia rozejścia, profilaktyka i edukacja, indywidualnie dobrany tre
 <td style="text-align: left;" >Aplikacja Taping do ćwiczeń
 </td>
 
-<td style="text-align: right;" >20zł
+<td style="text-align: right;" >5£
 </td>
 </tr>
 </tbody>
@@ -207,7 +173,7 @@ miednicy, terapia rozejścia, profilaktyka i edukacja, indywidualnie dobrany tre
 <td height="19" >Zaświadczenie o wybranych zabiegach
 </td>
 
-<td style="text-align: right;" class="xl65" >20zł
+<td style="text-align: right;" class="xl65" >£
 </td>
 </tr>
 </tbody>
